@@ -3,7 +3,7 @@
     - [[#introduction-text][Introduction Text]]
       - [[#links][Links]]
     - [[#learning-the-vim-keybindings---video-game-for-vim-keybindings][Learning The Vim Keybindings - Video Game For Vim Keybindings]]
-      - [[#videos-from-vomikod][Videos From Vomikod]]
+      - [[#videos-vim-adventures-game-play][Videos Vim Adventures Game Play]]
       - [[#file-formats-for-note-taking][File Formats For Note Taking]]
         - [[#short-videos-note-taking][Short Videos Note Taking]]
           - [[#is-neovim-the-ultimate-note-taking-tool][Is Neovim The Ultimate Note Taking Tool?]]
@@ -174,14 +174,10 @@ try to figure it out.
 This has answers in text form from Level 8 to the Last Level of the main story
 line. This does not cover the Macro puzzles. There are some small mistakes in
 the document, but it is mostly correct.
-**** Videos From Vomikod
-Playlist
--
-  [[https://youtube.com/playlist?list=PLl3Gy8rm8g9THKPnmbegeeiu0NvmbLg-V&si=Kc9uqQXNbWAoJTA7]]
-Plays through levels 1 -- Last Level, videos are not in English -- there is at
-least one puzzle that had a small change implemented since he recorded these
-videos, but it is mostly accurate to the current game. The game authors YouTube
-Channel:
+**** Videos Vim Adventures Game Play
+YouTube videos of gaming being played
+https://www.youtube.com/@landon.wilkins/search?query=adventure
+The game authors YouTube Channel:
 - [[https://www.youtube.com/@DoronLinder/videos][https://www.youtube.com/@DoronLinder/videos]]
 Videos of note:
 - Video Explaining the Game
